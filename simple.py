@@ -1,1 +1,1 @@
-print("kobe")
+print("kobe" * 2) 
